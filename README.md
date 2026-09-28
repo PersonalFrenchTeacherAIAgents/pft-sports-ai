@@ -21,3 +21,6 @@ Athletes work around training, travel, competition, recovery and media obligatio
 ## Official Sports AI site
 
 https://sports.personalfrenchteacher.tech
+
+## Proof
+Verify an attestation offline: [pft-attestation-verify](https://github.com/PersonalFrenchTeacherAIAgents/pft-attestation-verify). Runs on the [QEC Local Core](https://github.com/Quantum-Architecture): learner text never enters the audit ledger — only hashes.
